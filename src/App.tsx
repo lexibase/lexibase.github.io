@@ -5,7 +5,7 @@ export function App() {
         <img
           src="/logo-light.png"
           alt="logo lexibase Enterprise mother"
-          className="size-54 hover:scale-105 transition-[scale, rotate] duration-1000 hover:rotate-1 select-none pointer-events-none"
+          className="size-54 hover:scale-105 transition-[scale, rotate] duration-1000 hover:rotate-1 select-none"
         />
       </section>
     </div>
